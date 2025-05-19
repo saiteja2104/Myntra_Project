@@ -2,8 +2,8 @@ package com.pages;
 
 import org.openqa.selenium.WebDriver;
 
-import com.myntra.objectrepository.LoginPageProp;
-import com.myntra.utils.Driverutils;
+import com.objectrepository.LoginPageProp;
+import com.utils.Driverutils;
 
 //public class LoginPage extends Driverutils implements LoginPageProp {
 //	WebDriver driver;

@@ -1,4 +1,4 @@
-package com.myntra.objectrepository;
+package com.objectrepository;
 
 import org.openqa.selenium.By;
 

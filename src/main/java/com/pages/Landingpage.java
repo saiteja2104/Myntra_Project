@@ -3,8 +3,8 @@ package com.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import com.myntra.objectrepository.LandingPageProp;
-import com.myntra.utils.Driverutils;
+import com.objectrepository.LandingPageProp;
+import com.utils.Driverutils;
 
 public class Landingpage extends Driverutils implements LandingPageProp {
 public WebDriver driver;

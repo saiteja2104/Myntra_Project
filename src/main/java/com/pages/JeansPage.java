@@ -2,9 +2,9 @@ package com.pages;
 
 import org.openqa.selenium.WebDriver;
 
-import com.myntra.objectrepository.JeansPageProp;
-import com.myntra.objectrepository.LandingPageProp;
-import com.myntra.utils.Driverutils;
+import com.objectrepository.JeansPageProp;
+import com.objectrepository.LandingPageProp;
+import com.utils.Driverutils;
 
 public class JeansPage extends Driverutils implements LandingPageProp {
 	WebDriver driver;
