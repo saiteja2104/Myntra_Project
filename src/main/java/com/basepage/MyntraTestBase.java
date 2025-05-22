@@ -50,7 +50,7 @@ public WebDriver driverinitializer() throws MalformedURLException {
 			cap.setPlatform (Platform.WIN10); //cap.setPlatform (Platform.MAC); 
 			cap.setBrowserName("chrome"); //cap.setBrowserName("MicrosoftEdge")
 
-			driver = new RemoteWebDriver(new URL("http://192.168.242.156:4444/wd/hub"), cap);
+			driver = new RemoteWebDriver(new URL("http://192.168.84.156:4444/wd/hub"), cap);
 
 		}
 		else {
